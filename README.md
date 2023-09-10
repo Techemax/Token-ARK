@@ -3,7 +3,7 @@ This is the official information about the ARKT token, this token was created to
 :file_folder:
 
 The contract is as follows:
-0xd910C58B7522D3a2b537Baf99eA87F6287fc93b2
+https://polygonscan.com/token/0xd910C58B7522D3a2b537Baf99eA87F6287fc93b2
 :moneybag:
 
 The price is determined by the current market, and can be purchased on quickswap:
